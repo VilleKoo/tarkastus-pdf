@@ -1,0 +1,14 @@
+{
+  "name": "jsontopdf",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon table.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "pdfkit": "^0.13.0",
+    "pdfkit-table": "^0.1.89"
+  }
+}

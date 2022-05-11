@@ -1,0 +1,29 @@
+[
+  {
+    "sectionName": "Yhteystiedot",
+    "data": {
+      "viljelija": "Ville Kaartamo",
+      "viljelijanPuhelin": "0451145558",
+      "katuosoite": "Meritullinkatu 32",
+      "email": "akseli.kauranen@proagria.fi",
+      "postiosoite": "3200 Loimaa",
+      "tilatunnus": "3200 Loimaa",
+      "tarkastuttaja": "Jauholakki Oy",
+      "tarkastuttajanPuhelin": "0400560827",
+      "viljelysTarkastaja": "Tiina Triööri"
+    }
+  },
+  {
+    "sectionName": "Viljelyksen yleiset tiedot",
+    "data": {
+      "laji": "Timotei",
+      "sijaintikunta": "Janakkala",
+      "lajike": "Grindstad",
+      "kantasiemen": "FI151-20123 (PB) FI151-20123 (PB) FI151-20123 (PB)",
+      "kylvoisyys": "Kevät",
+      "tuotantotapa": "-",
+      "pyydettyPintaAla": "50,00 ha",
+      "satoarvio": "450 kg / ha"
+    }
+  }
+]
