@@ -1,6 +1,6 @@
 [
   {
-    "sectionName": "Yhteystiedot",
+    "tableName": "Yhteystiedot",
     "data": {
       "viljelija": "Ville Kaartamo",
       "viljelijanPuhelin": "0451145558",
@@ -14,7 +14,7 @@
     }
   },
   {
-    "sectionName": "Viljelyksen yleiset tiedot",
+    "tableName": "Viljelyksen yleiset tiedot",
     "data": {
       "laji": "Timotei",
       "sijaintikunta": "Janakkala",
